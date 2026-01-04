@@ -63,12 +63,11 @@ Although developed as a team project, I served as the **primary Unity developer*
 - Full ownership of:
   - Scene configuration and system integration
   - Gameplay logic implementation
-  - Shader creation and application
+  - Custom shader creation for scene-specific visual effects
 - Demonstrates:
   - Ability to execute and integrate team designs into a complete playable build
   - Strong understanding of Unity production workflows
   - Experience working under real-world time constraints
-- Custom shader creation for scene-specific visual effects
 
 ## Project Scope
 This repository focuses on **gameplay code, scene configuration, and technical implementation**.  
