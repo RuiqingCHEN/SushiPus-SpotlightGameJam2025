@@ -1,7 +1,7 @@
 # SushiPus
 
 **A creative game developed for the TapTap Spotlight GameJam.**  
-SushiPus is a collaborative game project created during a one-month online game jam, focusing on playful mechanics, stylized presentation, and rapid iteration under real production constraints.
+SushiPus is a collaborative game project created during a one-month online game jam, focusing on playful mechanics, system-driven gameplay, and rapid iteration under real production constraints.
 
 **Game Page (TapTap)**  
 https://www.taptap.cn/app/779663/topic?type=official
@@ -15,8 +15,17 @@ The project was completed within a **one-month intensive development cycle**, em
 
 The game was featured as an official entry on TapTap’s Spotlight GameJam platform.
 
+## Theme & Concept — “Isn’t This a Bug?”
+
+*SushiPus* is inspired by the myth of **Sisyphus** and the repetitive nature of conveyor-belt sushi restaurants, where every piece of sushi is destined to be eaten in an endless loop.
+
+The game asks a simple question: **what if one piece of sushi refused its fate?**  
+Players control an “awakened” sushi that survives by behaving like a *bug* inside the system — exploiting gaps, unintended spaces, and environmental oversights to escape.
+
+> *Am I merely a sushi meant to be consumed, or something that chooses to exist?*
+
 ## My Role & Contributions
-Although developed as a team project, **I was responsible for the majority of the technical implementation and production integration**, acting as the primary Unity developer and technical integrator.
+Although developed as a team project, I served as the **primary Unity developer**, responsible for the majority of the technical implementation and production integration.
 
 ### Programming & Technical Implementation
 - Implemented **all core gameplay systems** in Unity using C#
@@ -59,6 +68,7 @@ Although developed as a team project, **I was responsible for the majority of th
   - Ability to execute and integrate team designs into a complete playable build
   - Strong understanding of Unity production workflows
   - Experience working under real-world time constraints
+- Custom shader creation for scene-specific visual effects
 
 ## Project Scope
 This repository focuses on **gameplay code, scene configuration, and technical implementation**.  
