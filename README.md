@@ -10,7 +10,7 @@ https://www.taptap.cn/app/779663/topic?type=official
 TapTap Spotlight GameJam (1-month development period)
 
 ## About This Project
-*SushiPus* was developed by a **five-person team** as part of the TapTap Spotlight GameJam.  
+*SushiPus* was developed by a **six-person team** as part of the TapTap Spotlight GameJam.  
 The project was completed within a **one-month intensive development cycle**, emphasizing teamwork, rapid prototyping, and efficient implementation.
 
 The game was featured as an official entry on TapTap’s Spotlight GameJam platform.
@@ -65,7 +65,7 @@ This repository focuses on **gameplay code, scene configuration, and technical i
 Assets such as illustrations, animations, and audio were created by team members and integrated during development.
 
 ## Development Context
-- Team size: 5
+- Team size: 6
 - Development duration: ~1 month
 - Project type: GameJam / rapid prototyping
 - Platform: TapTap (Spotlight GameJam)
