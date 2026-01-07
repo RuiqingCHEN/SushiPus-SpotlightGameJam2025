@@ -7,7 +7,7 @@ SushiPus is a collaborative game project created during a one-month online game 
 https://www.taptap.cn/app/779663/topic?type=official
 
 **Created for:**  
-TapTap Spotlight GameJam (1-month development period)
+TapTap Spotlight GameJam (21 days development period)
 
 ## About This Project
 *SushiPus* was developed by a **six-person team** as part of the TapTap Spotlight GameJam.  
