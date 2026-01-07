@@ -75,7 +75,7 @@ Assets such as illustrations, animations, and audio were created by team members
 
 ## Development Context
 - Team size: 6
-- Development duration: ~1 month
+- Development duration: 21 days
 - Project type: GameJam / rapid prototyping
 - Platform: TapTap (Spotlight GameJam)
 
